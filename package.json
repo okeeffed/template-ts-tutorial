@@ -1,0 +1,23 @@
+{
+  "name": "template-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --watch",
+    "reset": "tsx bin/reset-templates.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.4",
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.12.7",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "tsx": "^4.8.2",
+    "typescript": "^5.4.5",
+    "vitest": "^1.5.3"
+  }
+}
