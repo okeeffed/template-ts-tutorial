@@ -4,7 +4,7 @@ A simple example of how to use the template.
 
 In this lesson, we want to implement a simple "Hello, World".
 
-If you need to reset the tutorial, run `pnpm reset` to reset all the files, or run `pnpm reset 1-hello-world` to reset just the first tutorial.
+If you need to reset the tutorial, run `pnpm reset` to reset all the files.
 
 Once reset, you will find the following code in `src/tutorial/1-hello-world.ts`:
 
